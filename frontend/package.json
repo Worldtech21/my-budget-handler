@@ -1,0 +1,12 @@
+{
+  "name": "budget-tracker-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.0.0",
+    "axios": "^0.26.0",
+    "chart.js": "^3.7.1"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
